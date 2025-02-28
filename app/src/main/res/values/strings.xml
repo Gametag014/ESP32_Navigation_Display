@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ESP32 Navigation</string>
+    <string name="connected">Connected to ESP32!</string>
+    <string name="connection_failed">Connection Failed!</string>
+    <string name="gps_permission_needed">GPS Permission Needed</string>
+    <string name="failed_send_data">Failed to send data</string>
+    <string name="connect_esp32">Connect ESP32</string>
+</resources>
